@@ -43,8 +43,9 @@ color:#E78F1F
   opacity: 1.0
 }
 .second{
-  position:static;
-  bottom:200px;
+  position:absolute;
+  top:300px;
   width:500px;
-  float:left;
+  left:400px;
+
 }
