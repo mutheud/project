@@ -24,3 +24,27 @@ h1{font-weight: bold;
     left:100px;
     font-size: 72px;
     font-style: oblique;}
+*{border-style: hidden;
+  }
+body p{
+width:500px;
+/*text-color:white;*/
+position: absolute;
+padding: 5px;
+top:50px;
+left:50px;
+opacity:1.0;
+font-style: oblique;
+font-size: 20px;
+font-weight: bolder;
+color:#E78F1F
+}
+.grad{
+  opacity: 1.0
+}
+.second{
+  position:static;
+  bottom:200px;
+  width:500px;
+  float:left;
+}
