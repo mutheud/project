@@ -37,15 +37,20 @@ opacity:1.0;
 font-style: oblique;
 font-size: 20px;
 font-weight: bolder;
-color:#E78F1F
+color:#F07500;
 }
 .grad{
   opacity: 1.0
 }
 .second{
   position:absolute;
-  top:300px;
+  top:350px;
   width:500px;
   left:400px;
-
+}
+.third{
+  position:absolute;
+  top:700px;
+  width:500px;
+  left:850px;
 }
