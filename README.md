@@ -1,16 +1,19 @@
 #My portfolio
-######My name is Diana Mutheu and the above code is used outline content about myself.
-######Basically such as:
-*My education background 
-*My interests
-*My home background
-/In simple terms its a brief description about my life/
+My name is Diana Mutheu and the above code is used outline content about myself.
+Basically such as:
+-My education background 
+-My interests
+-My home background
+
 ##Installation Requirements
 Git
+
 ##Installation Instructions
-Git clone
+Git clone https://github.com/mutheud/project.git
+
 ##Technology used
 HTML
 CSS
+GIT
 Github
 ###licensed by MIT
